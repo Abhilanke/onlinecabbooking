@@ -1,0 +1,8 @@
+cmd Command run xampp 
+services.msc
+
+Admin password
+MD5 Hash Generator
+123456789
+MD5 Hash Generator
+25f9e794323b453885f5181f1b624d0b

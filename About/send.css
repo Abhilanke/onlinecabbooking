@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: url('send.png') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Light background color */
+    height: 100vh;
+  }
+  
+  .container {
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #4070f4; /* Heading color */
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  /* Add hover effect to the container */
+  .container:hover {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Add transition effect for a smooth hover effect */
+  .container {
+    transition: box-shadow 0.3s ease-in-out;
+  }
