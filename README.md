@@ -17,7 +17,9 @@
 5)Add Database MYSQL
 
 GOOGLE RUN
-**http://localhost/CabBookingProject/** 
+**http://localhost/CabBookingProject/**
+Live Demo link 🔗 
+https://abhilanke.github.io/onlinecabbooking/
 
 **Admin Login Details**
 
